@@ -1,0 +1,29 @@
+.img-ctrl {
+  height: 550px;
+}
+
+.swiper {
+  border-radius: 8px;
+  overflow: hidden;
+}
+.swiper-button-next,
+.swiper-button-prev {
+  color: #4f46e5; /* Tailwind indigo-600 */
+  display: none;
+}
+.swiper-pagination-bullet {
+  background: #9ca3af; /* Tailwind gray-500 */
+}
+.swiper-pagination-bullet-active {
+  background: #4f46e5; /* Tailwind indigo-600 */
+}
+
+.section{
+    background-color: #fff;
+    padding: 5rem 0;
+}
+.fearures-section{
+    background: rgb(207, 211, 211) ;
+    padding: 6rem 8rem;
+    margin: 4px 5rem;
+}
